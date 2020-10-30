@@ -1,0 +1,14 @@
+		-----IMPORTANTE-----
+Asegurese que el archivo Puntuaciones.txt se encuentre 
+en la misma ubicación donde guarda y ejecuta QUICKER.c
+
+		-----CONTROLES-----
+		W-Arriba
+		S-Abajo
+		A-Derecha
+		D-Izquierda
+		Enter-Confirmar
+Entrada por teclado (Numeros para Pong y Letras para Nueva puntuación)
+
+
+NOTA: Para una descripción mas detallada de QUICKER lea el Manual de Usuario.
